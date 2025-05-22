@@ -3,7 +3,7 @@
 #### https://youtu.be/RdP_P7Ka9P0
 
 ### Introduction
-This project is an interactive data dashboard built using Dash, Plotly, and Pandas. The application allows users to upload CSV files, visualize the data in a table, and create bar charts based on selected columns. The dashboard also features an undo button to reset the data to its original state. This tool aims to simplify data analysis tasks and make it accessible even to those without technical expertise in data science.
+This project is an interactive data dashboard built using Dash, Plotly, and Pandas. The application allows users to upload CSV files, visualize the data in a table, and create bar charts based on selected columns. The dashboard also features an undo button to reset the data to its original state. This tool aims to simplify data analysis tasks and make it accessible even to those without technical expertise.
 
 ### Motivation
 As someone interested in making data analysis accessible to everyone, I developed this tool to help users gain insights from their data without needing extensive technical knowledge. This project was a valuable learning experience, allowing me to delve into Dash app development and data handling. By working on this project, I aimed to bridge the gap between raw data and meaningful visualizations, providing users with a straightforward interface to interact with their data.
